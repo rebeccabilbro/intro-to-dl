@@ -27,14 +27,21 @@ In this course we will use open source deep learning libraries to build machine 
 ## Course Objectives
 Upon successful completion of the course, students will be able to:
 
-    - Assess use cases in which AI and deep learning methods are well-suited.
-    - Articulate tradeoffs between deep learning and traditional machine learning models.
-    - Distinguish between experimental and production-ready AI and deep learning tools.
-    - Prepare strategies for the deployment of deep neural models.
-    - Leverage several deep learning libraries in Python such as TensorFlow, PyTorch, and Keras, able to appraise their affordances and limitations.
-    - Compare and contrast the results of deep learning experiments across a wide search space of hyperparameter and network architecture choices.
-    - Evaluate the effectiveness and efficacies of models using statistical methods.
-    - Experiment with different deep learning architectures such as multilayer perceptrons, recurrent neural networks, and convolutional neural networks.
+- Assess use cases in which AI and deep learning methods are well-suited.
+
+- Articulate tradeoffs between deep learning and traditional machine learning models.
+
+- Distinguish between experimental and production-ready AI and deep learning tools.
+
+- Prepare strategies for the deployment of deep neural models.
+
+- Leverage several deep learning libraries in Python such as TensorFlow, PyTorch, and Keras, able to appraise their affordances and limitations.
+
+- Compare and contrast the results of deep learning experiments across a wide search space of hyperparameter and network architecture choices.
+
+- Evaluate the effectiveness and efficacies of models using statistical methods.
+
+- Experiment with different deep learning architectures such as multilayer perceptrons, recurrent neural networks, and convolutional neural networks.
 
 
 
