@@ -52,6 +52,12 @@ Upon successful completion of the course, students will be able to:
 ├── README.md
 ├── fixtures
 ├── notebooks
-└── requirements
-    └── requirements.txt
+|   ├── lab_1_sklearn_mlp.ipynb
+|   ├── lab_2_tensorflow_mlp.ipynb
+|   ├── lab_3_keras_image_clf.ipynb
+|   ├── lab_4_pytorch_time_series.ipynb
+|   └── lab_5_generative_adversarial_networks.ipynb
+├── requirements
+|   └── requirements.txt
+└── results
 ```
